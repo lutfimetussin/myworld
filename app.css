@@ -350,10 +350,10 @@ footer {
 
     .custom-image {
         margin-left: auto; /* Center horizontally on smaller screens */
-        margin-right: auto; /* Center horizontally on smaller screens */
+        margin-right: -5px; /* Center horizontally on smaller screens */
         margin-bottom: 10px; /* Add space below the image */
         margin-top: 105px;
-        max-height: 390px; /* Reduce image size for smaller screens */
+        max-height: 370px; /* Reduce image size for smaller screens */
     }
 
     .custom-text {
