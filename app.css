@@ -635,6 +635,115 @@ footer {
 
 }
 
+@media (max-width: 640px) {
+
+    .custom-container-wrapper3 {
+        height: 5100px; /* Fixed height */
+        margin-top: -10px; /* Moves the container 50px upwards */
+    }
+
+    .custom-text3 p {
+        text-align: justify;
+        font-family: "Roboto", serif;
+        font-optical-sizing: auto;
+        font-weight: 100;
+        font-style: normal;
+        font-size: 19px; /* Paragraph font size */
+        line-height: 1.5;
+        transform: translateY(-70px); /* Fine-tune vertical position */
+        color: #d1cece; /* Slightly lighter text color */
+        margin-bottom: -60px;
+        padding-left: 38px; /* Space on the left */
+        padding-right: 38px;
+    }
+
+    .custom-image2 {
+        width: 350px; /* Adjust the width of the image */
+        height: 350px; /* Adjust the height of the image */
+        object-fit: cover; /* Ensures the image fits the container while cropping excess */
+        position: relative; /* Enables positioning */
+        top: 60px; /* Moves the image 20px down */
+        left: 40px; /* Moves the image 50px to the right */
+    }
+
+    .custom-image3 {
+        width: 350px; /* Adjust the width of the image */
+        height: 350px; /* Adjust the height of the image */
+        object-fit: cover; /* Ensures the image fits the container while cropping excess */
+        position: relative; /* Enables positioning */
+        top: 130px; /* Moves the image 20px down */
+        left: 40px; /* Moves the image 50px to the right */
+    }
+
+    .custom-image4 {
+        width: 350px; /* Adjust the width of the image */
+        height: 350px; /* Adjust the height of the image */
+        object-fit: cover; /* Ensures the image fits the container while cropping excess */
+        position: relative; /* Enables positioning */
+        top: 200px; /* Moves the image 20px down */
+        left: 40px; /* Moves the image 50px to the right */
+    }
+
+    .custom-image5 {
+        width: 350px; /* Adjust the width of the image */
+        height: 350px; /* Adjust the height of the image */
+        object-fit: cover; /* Ensures the image fits the container while cropping excess */
+        position: relative; /* Enables positioning */
+        top: 270px; /* Moves the image 20px down */
+        left: 40px; /* Moves the image 50px to the right */
+    }
+
+    .custom-image6 {
+        width: 350px; /* Adjust the width of the image */
+        height: 350px; /* Adjust the height of the image */
+        object-fit: cover; /* Ensures the image fits the container while cropping excess */
+        position: relative; /* Enables positioning */
+        top: 340px; /* Moves the image 20px down */
+        left: 40px; /* Moves the image 50px to the right */
+    }
+
+    .custom-image7 {
+        width: 350px; /* Adjust the width of the image */
+        height: 350px; /* Adjust the height of the image */
+        object-fit: cover; /* Ensures the image fits the container while cropping excess */
+        position: relative; /* Enables positioning */
+        top: 410px; /* Moves the image 20px down */
+        left: 40px; /* Moves the image 50px to the right */
+        
+    }
+
+    .custom-image8 {
+        width: 350px; /* Adjust the width of the image */
+        height: 350px; /* Adjust the height of the image */
+        object-fit: cover; /* Ensures the image fits the container while cropping excess */
+        position: relative; /* Enables positioning */
+        top: 480px; /* Moves the image 20px down */
+        left: 40px; /* Moves the image 50px to the right */
+        
+    }
+
+    .custom-image9 {
+        width: 350px; /* Adjust the width of the image */
+        height: 350px; /* Adjust the height of the image */
+        object-fit: cover; /* Ensures the image fits the container while cropping excess */
+        position: relative; /* Enables positioning */
+        top: 550px; /* Moves the image 20px down */
+        left: 40px; /* Moves the image 50px to the right */
+        
+    }
+        
+    .custom-image10 {
+        width: 350px; /* Adjust the width of the image */
+        height: 350px; /* Adjust the height of the image */
+        object-fit: cover; /* Ensures the image fits the container while cropping excess */
+        position: relative; /* Enables positioning */
+        top: 620px; /* Moves the image 20px down */
+        left: 40px; /* Moves the image 50px to the right */
+        
+    }
+
+
+}
 
 /*------------------------------Third Container End------------------------------*/
 
